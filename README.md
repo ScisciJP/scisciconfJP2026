@@ -3,7 +3,7 @@
 本リポジトリは、第1回Science of science研究会の公式ウェブサイト用リポジトリです。
 本コードは、[ACL 2023](https://github.com/acl-org/acl-2023)からフォークしておりますので、編集の詳細につきましてはフォーク元のREADMEをご覧ください。
 
-- Webpage: https://sciscijp.github.io/home/
+- Webpage: https://sciscijp.github.io/homepage/
 
 ## How to contribute
 
