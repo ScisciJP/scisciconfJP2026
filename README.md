@@ -15,7 +15,7 @@ git clone git@github.com:ScisciJP/homepage.git
 
 ### 2. Build with Jekyll
 ```
-sudo bundle install.
+bundle install.
 ```
 Note: This step might fail when installing the `nokogiri` gem. If this happens, run `bundle config build.nokogiri --use-system-libraries` and then `run bundle install` again.
 
@@ -25,7 +25,7 @@ Start the jekyll server by running
 bundle exec jekyll serve
 ```
 
--> http://0.0.0.0:4000/scisciconfJP2024/ からアクセスできます。
+-> You can access the test page via http://0.0.0.0:4000/scisciconfJP2024/
 
 ### 3. Edit pages
 
@@ -43,8 +43,6 @@ git push origin <branch_name>
 - プログラム委員が確認次第、随時更新します。
 
 
-# プログラム運営委員
-
+# Contact
 Contact: [sciscijp@googlegroups.com](mailto:sciscijp@googlegroups.com)
-
-* 三浦 千哲(東京大学)
+三浦 千哲(東京大学): miura-tchiaki873@g.ecc.u-tokyo.ac.jp
