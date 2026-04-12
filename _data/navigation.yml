@@ -1,11 +1,11 @@
 # main links in masthead.html
 main:
-  - title: "Home"
-    url: /
-  - title: "Science of scienceとは"
-    url: /about/
-  - title: "Archive"
-    url: /archive/
+  # - title: "Home"
+  #   url: /
+  # - title: "Science of scienceとは"
+  #   url: /about/
+  # - title: "Archive"
+  #   url: /archive/
   # - title: "会場/運営委員"
     # url: /venue/
   # - title: "スポンサー"
