@@ -13,23 +13,34 @@ git clone git@github.com:ScisciJP/scisciconfJP2026.git
 ```
 
 ### 2. Build with Jekyll
+
+#### Option A: ローカル（bundle）
+
 ```
-bundle install.
+bundle install
 ```
 Note: This step might fail when installing the `nokogiri` gem. If this happens, run `bundle config build.nokogiri --use-system-libraries` and then `run bundle install` again.
 
-
-Start the jekyll server by running 
+Start the jekyll server by running
 ```
 bundle exec jekyll serve
 ```
 
--> You can access the test page via http://0.0.0.0:4000/scisciconfJP2024/
+-> You can access the test page via http://0.0.0.0:4000/scisciconfJP2026/
+
+#### Option B: Docker
+
+```
+docker build -t scisciconfjp2026 .
+docker run --rm -p 4000:4000 -p 35729:35729 -v "$PWD:/srv/jekyll" scisciconfjp2026
+```
+
+-> You can access the test page via http://0.0.0.0:4000/scisciconfJP2026/
 
 ### 3. Edit pages
 
 branchを切ってから、編集してください。
-編集する回数の多い箇所は、フォーク元の[こちら](https://github.com/acl-org/acl-2023?tab=readme-ov-file#important-files)に記載があります。
+編集する回数の多い箇所は、フォーク元の[こちら](https://github.com/acl-org/acl-2023?tab=readme-ov-file#important-files)に記載があります。以下のファイルが代表的です。
 
 Header: _data/navigation.yml
 Body: _pages/*.md
@@ -46,5 +57,6 @@ git push origin <branch_name>
 
 
 # Contact
-Contact: [sciscijp@googlegroups.com](mailto:sciscijp@googlegroups.com)
+Contact: [sciscijp@googlegroups.com](mailto:sciscijp@googlegroups.com)<br>
+三浦 崇寛(神戸大学): ttmiura225.research@gmail.com<br>
 三浦 千哲(東京大学): miura-tchiaki873@g.ecc.u-tokyo.ac.jp
