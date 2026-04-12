@@ -1,10 +1,10 @@
 ---
-title: "第4回Science of Science 研究会"
+title: "第4回Science of Science 研究会<br><span style='font-size:0.6em;'>2026年7月4日（土）・5日（日）<br>神戸大学</span>"
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/istock_tokyo.jpg"
-  caption: 'Photo @ iStock'
+  overlay_image: "/assets/images/kobe_feelphoto_thin.jpg"
+  caption: '© 一般財団法人神戸観光局'
 ---
 
 <div style="background-color:#4CAF50; color:white; padding:15px; text-align:center; border-radius:5px; margin-bottom:20px;">
