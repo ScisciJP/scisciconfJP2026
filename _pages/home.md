@@ -3,7 +3,7 @@ title: "第4回Science of Science 研究会<br><span style='font-size:0.6em;'>20
 layout: splash
 permalink: /
 header:
-  overlay_image: /assets/images/kobe_feelphoto_thin.jpg
+  overlay_image: assets/images/kobe_feelphoto_thin.jpg
   caption: '© 一般財団法人神戸観光局'
 ---
 
