@@ -24,7 +24,7 @@ header:
 
 <h3 style="color: #FF6B6B; margin-top: 0;">📢 第4回 SciSci研究会 発表募集</h3>
 
-<p>SciSci研究会は、科学知識の生成・伝播・評価を対象とする「サイエンス・オブ・サイエンス（Science of Science）」の国内研究交流を目的とした研究会です。第4回は初の関西開催として、神戸大学で開催いたします。</p>
+<p>SciSci研究会は「サイエンス・オブ・サイエンス（Science of Science）」の国内研究交流を目的とした研究会です。第4回は初の関西開催として、神戸大学で開催いたします。</p>
 
 <h4 style="color: #333; border-bottom: 1px solid #ddd; padding-bottom: 5px;">開催概要</h4>
 <ul>
