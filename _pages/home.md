@@ -73,7 +73,7 @@ header:
 <div style="text-align: center; margin: 20px 0;">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSew6G1phQ4ngtz7jsS1Ij92rr9frb1RYc_XuaYQJyi8Jl_exg/viewform?usp=publish-editor" 
      style="background-color: #FF6B6B; color: white; padding: 12px 24px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block; margin: 5px;">
-    📝 发表登録フォーム
+    📝　発表登録フォーム
   </a>
 </div>
 
