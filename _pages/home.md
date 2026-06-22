@@ -7,15 +7,22 @@ header:
   caption: '© 一般財団法人神戸観光局'
 ---
 
-<div style="background-color:#FF6B6B; color:white; padding:15px; text-align:center; border-radius:5px; margin-bottom:20px; font-weight:bold;">
-  🎯 発表募集中！ Call for Presentations 🎯<br>
-  発表申込締切：2026年6月7日（日）<br>
-  <a href="#cfp" style="color:white; text-decoration:underline;">詳細はこちら</a>
+<div style="background-color:#4CAF50; color:white; padding:15px; text-align:center; border-radius:5px; margin-bottom:20px; font-weight:bold;">
+  📢 プログラムを公開しました！ 📢<br>
+  参加登録受付中（締切：2026年6月28日（日））<br>
+  <a href="{{ '/program/' | relative_url }}" style="color:white; text-decoration:underline;">プログラムはこちら</a>　|　<a href="#cfp" style="color:white; text-decoration:underline;">開催概要・参加登録はこちら</a>
 </div>
 
 <div style="background-color:#4CAF50; color:white; padding:15px; text-align:center; border-radius:5px; margin-bottom:20px;">
   第4回 Science of Science 研究会を2026年7月4日（土）、5日（日）に神戸大学にて開催いたします。<br>
   初の関西開催として、多くの皆様のご参加をお待ちしております。<br>
+</div>
+
+<div style="text-align: center; margin: 20px 0;">
+  <a href="{{ '/program/' | relative_url }}"
+     style="background-color: #2c3e50; color: white; padding: 12px 24px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block; margin: 5px;">
+    📋 プログラムを見る
+  </a>
 </div>
 
 ## Call for Presentations - 発表募集 {#cfp}
@@ -71,10 +78,9 @@ header:
 <p>下記フォームよりタイトル・著者・300-500字程度の概要をご提出ください。予稿（任意、A4数ページ）の提出も可能です。</p>
 
 <div style="text-align: center; margin: 20px 0;">
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSew6G1phQ4ngtz7jsS1Ij92rr9frb1RYc_XuaYQJyi8Jl_exg/viewform?usp=publish-editor" 
-     style="background-color: #FF6B6B; color: white; padding: 12px 24px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block; margin: 5px;">
-    📝　発表登録フォーム
-  </a>
+  <span style="background-color: #999; color: white; padding: 12px 24px; border-radius: 5px; font-weight: bold; display: inline-block; margin: 5px;">
+    📝　発表登録は締め切りました（2026年6月7日）
+  </span>
 </div>
 
 <div style="text-align: center; margin: 20px 0;">
