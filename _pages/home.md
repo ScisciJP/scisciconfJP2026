@@ -13,6 +13,11 @@ header:
   <a href="https://docs.google.com/document/d/1swVCdtPq6k2FxvjSOWRu_694QkcQW4MOk3A_5UHU_KA/edit?usp=sharing" target="_blank" rel="noopener" style="color:white; text-decoration:underline;">プログラムはこちら</a>　|　<a href="#cfp" style="color:white; text-decoration:underline;">開催概要・参加登録はこちら</a>
 </div>
 
+<div style="border:2px solid #FF0000; background-color:#FFF5F5; padding:12px 15px; border-radius:5px; margin-bottom:20px; text-align:center;">
+  <span style="color:#D8000C; font-weight:bold;">⚠️ 懇親会にご参加希望の方へ</span><br>
+  <span style="color:#D8000C; font-weight:bold;">2026年6月25日(木)まで</span>に<a href="#cfp" style="color:#D8000C; text-decoration:underline; font-weight:bold;">参加登録フォーム</a>でその旨をご登録ください。
+</div>
+
 <div style="background-color:#4CAF50; color:white; padding:15px; text-align:center; border-radius:5px; margin-bottom:20px;">
   第4回 Science of Science 研究会を2026年7月4日（土）、5日（日）に神戸大学にて開催いたします。<br>
   初の関西開催として、多くの皆様のご参加をお待ちしております。<br>
@@ -85,7 +90,7 @@ header:
 </div>
 
 <div style="background-color:#FFF3CD; border:1px solid #FFE08A; color:#856404; padding:12px 15px; border-radius:5px; margin:20px 0;">
-  🍻 <strong>懇親会について</strong>：1日目（7月4日）18:00より三ノ宮にて懇親会を予定しています。参加をご希望の方は、<strong>2026年6月25日(木)まで</strong>に参加登録フォームでその旨をご登録ください。
+  🍻 <strong>懇親会について</strong>：参加をご希望の方は、<strong style="color:#D8000C;">2026年6月25日(木)まで</strong>に下記の参加登録フォームで<strong style="color:#D8000C;">その旨をご登録ください</strong>。
 </div>
 
 <div style="text-align: center; margin: 20px 0;">
