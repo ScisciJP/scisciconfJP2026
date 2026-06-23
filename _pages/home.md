@@ -72,6 +72,7 @@ header:
   <li><strong>採否通知</strong>：2026年6月上旬</li>
   <li><strong>プログラム公開</strong>：2026年6月中旬</li>
   <li><strong>参加登録締切</strong>：2026年6月28日(日)</li>
+  <li><strong>懇親会の参加登録締切</strong>：2026年6月25日(木)</li>
 </ul>
 
 <h4 style="color: #333; border-bottom: 1px solid #ddd; padding-bottom: 5px;">申し込み方法</h4>
@@ -81,6 +82,10 @@ header:
   <span style="background-color: #999; color: white; padding: 12px 24px; border-radius: 5px; font-weight: bold; display: inline-block; margin: 5px;">
     📝　発表登録は締め切りました（2026年6月7日）
   </span>
+</div>
+
+<div style="background-color:#FFF3CD; border:1px solid #FFE08A; color:#856404; padding:12px 15px; border-radius:5px; margin:20px 0;">
+  🍻 <strong>懇親会について</strong>：1日目（7月4日）18:00より三ノ宮にて懇親会を予定しています。参加をご希望の方は、<strong>2026年6月25日(木)まで</strong>に参加登録フォームでその旨をご登録ください。
 </div>
 
 <div style="text-align: center; margin: 20px 0;">
